@@ -1,4 +1,4 @@
-# How-to-get-raspberry-pi-to-interact-with-Amazon-web-Services-push-data-into-the-DynamoDB
+# How-to-get-raspberry-pi-to-interact-with-Amazon-web-Services-push-data-into-the-DynamoDB(Simple IoT Project)
 (1) Introduction
 (2) Steps involved in this Tutorial:
 (2.1) Creating thing, certificate and attaching a policy to the certificate
