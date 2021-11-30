@@ -1,7 +1,7 @@
 # How-to-get-raspberry-pi-to-interact-with-Amazon-web-Services-push-data-into-the-DynamoDB
 1. Introduction
-2.1 Creating thing, certificate and attaching a policy to the certificate
-2.2 Installing Required SDKs, and Libraries. such as “AWS IoT Python SDK” & Paho-MQTT library
+2 Creating thing, certificate and attaching a policy to the certificate
+3 Installing Required SDKs, and Libraries. such as “AWS IoT Python SDK” & Paho-MQTT library
 2.2.1 Installing “AWS IoT Python SDK”
 2.2.2 Installing Paho-MQTT library
 2.3 Programming Part – Creating scripts for Publishing, Subscribing to a particular thing.
