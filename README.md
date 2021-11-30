@@ -12,4 +12,4 @@
 2.5 Creating DynamoDB Rule & DynamoDB Table.
 2.5.1 Creating DynamoDB Rule
 2.5.2  Creating Amazon DynamoDB
-2.6 Execution of Scripts & Demonstration of pushing data into the DynamoDB
+2.6 Execution of Scripts & pushing data into the DynamoDB
