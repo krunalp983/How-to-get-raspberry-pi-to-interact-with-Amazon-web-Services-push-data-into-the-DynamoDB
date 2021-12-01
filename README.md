@@ -5,6 +5,6 @@
  3. Programming Part – Creating scripts for Publishing, Subscribing to a particular thing.
 (3.1) ei_aws_publish.py
 (3.2) ei_aws-subscribe.py
- 4. Execution of Scripts & Data logging
+ 4. Execution of Scripts & Data logging.
  5.Creating DynamoDB Rule & DynamoDB Table.
 
