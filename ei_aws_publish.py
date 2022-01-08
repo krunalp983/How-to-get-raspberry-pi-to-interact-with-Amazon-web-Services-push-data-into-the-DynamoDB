@@ -83,7 +83,7 @@ while 1==1:
         paylodmsg = "{} {} {} {} {} {} {} {}".format(paylodmsg0, paylodmsg1, macIdStr, paylodmsg2, randomNumber, paylodmsg3, random_string, paylodmsg4)
         paylodmsg = json.dumps(paylodmsg) 
         paylodmsg_json = json.loads(paylodmsg)       
-        mqttc.publish("ElectronicsInnovation", paylodmsg_json , qos=1)        # topic: temperature # Publishing Temperature values
+        mqttc.publish("mytopic", paylodmsg_json , qos=1)        # topic: temperature # Publishing Temperature values
         print("msg sent: ElectronicsInnovation" ) # Print sent temperature msg on console
         print(paylodmsg_json)
 
